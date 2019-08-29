@@ -1,0 +1,14 @@
+{
+    "name": "windrun/windrun",
+    "description": "My project",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Windrun",
+            "email": "windrun@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
